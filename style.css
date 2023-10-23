@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1;
+    background-color: blanchedalmond;
+    
+
+   
+}
+
+.principal {
+    margin: auto;
+    display: grid;
+    margin-top: 20%;
+}
+
+#number {
+    margin-top: 10%;
+    margin-bottom: 10%;
+
+}
+.titulo {
+    font-size: 25px;
+
+}
